@@ -20,6 +20,7 @@ The technologies I use in my projects include:
 
 In my free time, I enjoy cooking, cycling.
 
+
 I've also started developing skills in the field of Machine Learning, which I'm actively working on as part of my thesis. I am set to graduate in May and am currently seeking opportunities as a frontend developer.
 
 
