@@ -18,7 +18,8 @@ The technologies I use in my projects include:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-In my free time, I enjoy cooking, cycling.
+
+In my free time, I enjoy cooking and cycling.
 
 
 I've also started developing skills in the field of Machine Learning, which I'm actively working on as part of my thesis. I am set to graduate in May and am currently seeking opportunities as a frontend developer.
