@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is George, and I am a fourth-year computer science student at the Warsaw University of Life Sciences. I have been exploring web development on my own for over four years now.
+My name is **George** (Jerzy), and I am a fourth-year computer science student at the Warsaw University of Life Sciences. I have been exploring web development on my own for over four years now.
 
-The technologies I use in my projects include:
+#### The technologies I use in my projects include:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -16,14 +16,13 @@ The technologies I use in my projects include:
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
+</div> <br/>
 
 In my free time, I enjoy cooking and cycling.
 
-
 I've also started developing skills in the field of Machine Learning, which I'm actively working on as part of my thesis. I am set to graduate in May and am currently seeking opportunities as a frontend developer.
 
+### [➡️Portfolio](https://portfolio-pdnl.onrender.com/) 
 
 <!--
 **JerzyMarczewski/JerzyMarczewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
