@@ -5,7 +5,7 @@ My name is **George** (Jerzy), and I am a fourth-year computer science student a
 #### The technologies I use in my projects include:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain.svg" title="Jasmine" alt="Jasmine" width="Jasmine" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-original.svg" title="Jasmine" alt="Jasmine" width="Jasmine" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/karma/karma-plain.svg" title="Karma" alt="Karma" width="Jasmine" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
