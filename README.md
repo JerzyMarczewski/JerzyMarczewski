@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **George** (Jerzy), and I am a fourth-year computer science student at the Warsaw University of Life Sciences. I have been exploring web development on my own for over four years now.
+My name is **Jerzy** (George). I am a graduate of the Warsaw University of Life Sciences, where I earned a Bachelor's degree in computer science. I am passionate about web technologies and have been independently exploring them for over four years. Additionally, I continue to develop in the field of Machine Learning, which I worked on as part of my thesis.
 
 #### The technologies I use in my projects include:
 <div>
@@ -24,9 +24,9 @@ My name is **George** (Jerzy), and I am a fourth-year computer science student a
 
 In my free time, I enjoy cooking and cycling.
 
-I've also started developing skills in the field of Machine Learning, which I'm actively working on as part of my thesis. I am set to graduate in May and am currently seeking opportunities as a frontend developer.
+As a graduate, I am now focused on seeking opportunities for development as a Web Developer.
 
-### [➡️Portfolio](https://portfolio-pdnl.onrender.com/) 
+### [➡️Portfolio](https://www.jerzymarczewski.pl/) 
 
 <!--
 **JerzyMarczewski/JerzyMarczewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
