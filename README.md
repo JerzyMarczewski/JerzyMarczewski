@@ -4,6 +4,7 @@ My name is **Jerzy** (George). I am a graduate of the Warsaw University of Life 
 
 #### The technologies I use in my projects include:
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rxjs/rxjs-original.svg" title="RxJS" alt="RxJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ngrx/ngrx-original.svg" title="NgRx" alt="NgRx" width="40" height="40"/>&nbsp;
