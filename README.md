@@ -30,6 +30,7 @@ My name is **Jerzy**. I am a graduate of the Warsaw University of Life Sciences,
 
 In my free time, I enjoy cooking and cycling.
 
-As a graduate, I am now focused on seeking opportunities for development as a Software Engineer.
+<!---
+### [➡️Portfolio](https://www.jerzymarczewski.pl/) */
+-->
 
-// ### [➡️Portfolio](https://www.jerzymarczewski.pl/) 
