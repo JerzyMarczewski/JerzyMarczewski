@@ -32,4 +32,4 @@ In my free time, I enjoy cooking and cycling.
 
 As a graduate, I am now focused on seeking opportunities for development as a Software Engineer.
 
-### [➡️Portfolio](https://www.jerzymarczewski.pl/) 
+// ### [➡️Portfolio](https://www.jerzymarczewski.pl/) 
