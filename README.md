@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Jerzy** (George). I am a graduate of the Warsaw University of Life Sciences, where I earned a Bachelor's degree in computer science. I am passionate about web technologies and have been independently exploring them for over four years. 
+My name is **Jerzy**. I am a graduate of the Warsaw University of Life Sciences, where I earned a Bachelor's degree in computer science. I am passionate about web technologies and have been independently exploring them for over four years. 
 
 #### The technologies I use in my projects include:
 <div>
